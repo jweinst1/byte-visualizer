@@ -6,7 +6,7 @@
 
 This is a small C-executable tool to more easily visualize binary files.
 
-It will print a certain number of bytes per line into an easier to read format, perefixed with `\x`.
+It will print a certain number of bytes per line into an easier to read format, prefixed with `\x`.
 
 ## Build
 
